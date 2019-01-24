@@ -44,6 +44,10 @@ img {
 	max-width: 100%;
 }
 
+.diamond:hover {
+	filter: opacity(50%);
+}
+
 .blue {
 	background-color: #1567DC;
 }
